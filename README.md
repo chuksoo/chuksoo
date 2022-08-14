@@ -32,10 +32,10 @@
   <div class="column">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=chuksoo&theme=default" height="200" width="400" alt="chuksoo" /> 
   </div>
-</div>
   <div class="column">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuksoo&layout=compact" height="200" width="200" alt="chuksoo" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuksoo&layout=compact" height="200" width="300" alt="chuksoo" />
   </div>
+ </div>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuksoo&layout=compact)](https://github.com/chuksoo/github-readme-stats) -->
 
