@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Chuks</h1>
 <h3 align="center">A passionate machine learning engineer</h3>
 
-![](https://komarev.com/ghpvc/?username=chuksoo&style=flat)
+<!-- ![](https://komarev.com/ghpvc/?username=chuksoo&style=flat) -->
 
 - 🔭 I’m currently working on **probabilistic graphical models**
 - 🌱 I’m currently learning **Object-Oriented Programming, Flask, Probabilistic Graphical models**
@@ -27,15 +27,15 @@
 <h3 align="left">Github Activities:</h3>
 <div class="row">
   <div class="column">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=chuksoo&show_icons=true&locale=en" height="200" width="400" alt="chuksoo" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=chuksoo&show_icons=true&locale=en" height="200" width="450" alt="chuksoo" />
   </div>
   <div class="column">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chuksoo&theme=default" height="200" width="400" alt="chuksoo" /> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chuksoo&theme=default" height="200" width="450" alt="chuksoo" /> 
   </div>
 </div>
 
   <div class="column">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuksoo&layout=compact" height="200" width="300" alt="chuksoo" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuksoo&layout=compact" height="200" width="350" alt="chuksoo" />
   </div>
 
 <h3 align="left">Support:</h3>
