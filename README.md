@@ -1,10 +1,10 @@
 <h1 align="center">Hi there👋, I'm Chuks</h1>
 <h3 align="center">A passionate machine learning engineer</h3>
-
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chuksoo&label=Profile%20views&color=0e75b6&style=flat" alt="chuksoo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chuksoo" alt="chuksoo" /></a> </p>
-
+-->
 <p align="left"> <a href="https://twitter.com/mexx4me" target="blank"><img src="https://img.shields.io/twitter/follow/mexx4me?logo=twitter&style=for-the-badge" alt="mexx4me" /></a> </p>
 
 - 🔭 I’m currently working on **probabilistic graphical models**
