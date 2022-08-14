@@ -32,12 +32,11 @@
   <div class="column">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=chuksoo&theme=default" height="200" width="400" alt="chuksoo" /> 
   </div>
+</div>
+
   <div class="column">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuksoo&layout=compact" height="200" width="300" alt="chuksoo" />
   </div>
- </div>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuksoo&layout=compact)](https://github.com/chuksoo/github-readme-stats) -->
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/chuksoo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chuksoo" /></a></p>
