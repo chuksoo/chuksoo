@@ -35,7 +35,7 @@
 </div>
 
   <div class="column">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuksoo&layout=compact" height="200" width="350" alt="chuksoo" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuksoo&layout=compact" height="150" width="300" alt="chuksoo" />
   </div>
 
 <h3 align="left">Support:</h3>
