@@ -34,7 +34,7 @@
   </div>
 </div>
   <div class="column">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuksoo&layout=compact" alt="chuksoo" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuksoo&layout=compact" height="200" width="200" alt="chuksoo" />
   </div>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuksoo&layout=compact)](https://github.com/chuksoo/github-readme-stats) -->
