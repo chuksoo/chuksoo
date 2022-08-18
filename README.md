@@ -6,7 +6,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=chuksoo&style=flat) -->
 
 - 🔭 I’m currently working on **probabilistic graphical models**
-- 🌱 I’m currently learning **Object-Oriented Programming, Flask, Probabilistic Graphical models**
+- 🌱 I’m currently learning more about **Object-Oriented Programming in Python, Flask, Probabilistic Graphical models**
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 - 🤝 I’m looking for help with **MLOps**
 - 👨‍💻 My data science projects are available at my [Data Science Portfolio](https://github.com/chuksoo/Data-Science-Portfolio)
