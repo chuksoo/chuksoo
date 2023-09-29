@@ -8,12 +8,12 @@
 - 🔭 I’m currently working on **probabilistic graphical models**
 - 🌱 I’m currently learning more about **Generative AI, Probabilistic Machine Learning**
 - 👯 I’m looking to collaborate on **Machine Learning projects**
-<!--- 🤝 I’m looking for help with **MLOps**-->
 - 👨‍💻 My data science projects are available at my [Data Science Portfolio](https://github.com/chuksoo/Data-Science-Portfolio)
 - 📝 I regularly write articles on [medium](https://medium.com/@Iceman_subzero)
 - 💬 Ask me about **python, machine learning**
 - 📫 How to reach me: **chuks.o.okoli@gmail.com**
 - 📄 Know about my experiences on [linkedin.com](https://www.linkedin.com/in/chukwuemeka-okoli-38686923/)
+  <!--- 🤝 I’m looking for help with **MLOps**-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
