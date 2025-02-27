@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/CodeWithChuksoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="CodeWithChuksoo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chukwuemeka-okoli-38686923/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chukwuemeka-okoli-38686923/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chuks-okoli-38686923/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chukwuemeka-okoli-38686923/" height="30" width="40" /></a>
 <a href="https://medium.com/@iceman_subzero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@iceman_subzero" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pythondance" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pythondance" height="30" width="40" /></a>
 </p>
